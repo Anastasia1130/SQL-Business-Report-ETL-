@@ -1,8 +1,8 @@
 # SQL-Business-Report-ETL-
 <h2>Description</h2>
-A fictional DVD rental company wants to 
+A fictional DVD rental company wants to know which film categories (genres) are rented most often by their customers. This report will answer this business question 
+by implementing functions, stored procedures, and triggers to prepare data sets for analysis. 
 
-mplementing functions, stored procedures, and triggers to prepare data sets for data analysis and manipulation, configures data extraction, transformation, and loading tasks in order to automate data integration..
 <br />
 
 <h2>Languages and Utilities Used</h2>
@@ -35,12 +35,19 @@ aeed0139b592
 - Johnson, B. (n.d.-b). Writing & Using Functions in PostgreSQL. Panopto. 
 https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0eabc1aa-1e70-43ac-bb1eaddb013a26e8
 
+<h2>Walkthrough</h2>
+1. I first identified all the database fields I will need for the detailed and summary tables of the report.
+<img src= "https://i.ibb.co/NWPctwM/table.png" alt="Report Fields"/>
+
+2. Creating a user-defined function that performs a transformation to CONCAT the category.name and category.category_id columns1
+
+<br>
 
 <h2>Results:</h2>
 <br>
 <p align="center">
 <b>Business Report Summary Table</b> <br>
 <br>
-<img src="https://i.ibb.co/1RJZdWZ/summary.png" alt="Summary Table" align="center"/>
+<img src="https://i.ibb.co/1RJZdWZ/summary.png" alt="Summary Table"/>
 <br />
 <br />
