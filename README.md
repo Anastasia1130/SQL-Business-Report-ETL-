@@ -1,7 +1,10 @@
 # SQL-Business-Report-ETL-
 <h2>Description</h2>
+PLEASE VIEW THE "WALKTHROUGH SQL PROJECT" FILE ABOVE TO VIEW THE FULL PROJECT
+<br>
+
 A fictional DVD rental company wants to know which film categories (genres) are rented most often by their customers. This report will answer this business question 
-by implementing functions, stored procedures, and triggers to prepare data sets for analysis. PLEASE VIEW THE "WALKTHROUGH SQL PROJECT" FILE ABOVE TO VIEW THE FULL PROJECT
+by implementing functions, stored procedures, and triggers to prepare data sets for analysis. 
 
 <br />
 
