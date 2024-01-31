@@ -35,13 +35,6 @@ aeed0139b592
 - Johnson, B. (n.d.-b). Writing & Using Functions in PostgreSQL. Panopto. 
 https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0eabc1aa-1e70-43ac-bb1eaddb013a26e8
 
-<h2>Walkthrough</h2>
-1. I first identified all the database fields I will need for the detailed and summary tables of the report.
-<img src= "https://i.ibb.co/NWPctwM/table.png" alt="Report Fields"/>
-
-2. Creating a user-defined function that performs a transformation to CONCAT the category.name and category.category_id columns1
-
-<br>
 
 <h2>Results:</h2>
 <br>
